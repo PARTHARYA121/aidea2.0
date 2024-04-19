@@ -76,7 +76,7 @@ if __name__ == "__main__":
                     speak("Ok sir , You can call me anytime")
                     break 
                 
-                #################### JARVIS: THe Trilogy 2.0 #####################
+             
 
                 elif "change password" in query:
                     speak("What's the new password")
@@ -207,7 +207,7 @@ if __name__ == "__main__":
                 
                 
 
-                ############################################################
+               
                 elif "hello" in query:
                     speak("Hello sir, how are you ?")
                 elif "i am fine" in query:
